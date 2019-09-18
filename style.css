@@ -1,13 +1,15 @@
 img.vloot1{
     float: left;
     border: 2px;
-    padding: 
+    padding: 10px;
 }
 img.vloot2{
     float: right;
     border: 2px;
+    padding: 10px;
 }
 img.vloot3{
     float: left;
     border: 2px;
+    padding: 10px;
 }
